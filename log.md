@@ -1,0 +1,1 @@
+Did the second lecture on conditionals. I'm a little confused as to when to choose different approaches, like when to use Match vs. just ELIF. I also feel I need to look back at the cheat sheet and practice the functions. But overall I definitely have a feel for the way the language works

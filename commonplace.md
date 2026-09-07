@@ -53,10 +53,51 @@ https://poets.org/index%2ephp/poem/rage-shatters-man-children
 
 
 
-# 2026-09-04 · [poet], "[title]"
+# 2026-09-04 · Dimitri Psurtsev, "[We waved them off long ago. So why]"
 steal: 
+until
+The words on my starling tongue,
+Numb from mint, go mute, and
+Our enormous dreams gutter out
 
 cut: 
+We waved our hand
+To those distant, flown over the edge
+Of the earth
 
 why:
 
+For the steal:
+The descendants in mood and tone from the words starting on the tongue, but being numb. The tongue is numb, so that's reducing it down, then it goes mute, and then the grand finale of our enormous dreams guttering out. There's a really nice deescalation there. Also, the use of "guttering" as a verb like that is startling, but not so startling that it's jarring. And it ends the poem in a very strong way
+
+For the cut:
+We waved our hand to those distant the lack of the noun there, "distant what," is kind of confusing, but not in a way that is very evocative.
+
+And then, "Flown over the edge of the Earth." Again, I don't know if those are seeds or if it's an active kind of flying, or something is being thrown, but overall, the line feels a little muddled and is not very memorable
+
+https://poets.org/poem/we-waved-them-long-ago-so-why
+
+
+# 2026-09-05 · Robert Frost, "The Cocoon"
+steal: 
+And pours the elm-tree meadow full of blue
+
+
+cut: 
+Makes the new moon look anything but new,
+
+
+why:
+
+For the steal:
+Referring to the autumn haze "pouring" into the meadow with "blue" is clever image because it connects the idea of fluid (water, blue, pour) with the natural green imagery of the meadow and elm trees. Also, elm-tree meadow as a compound image is also quite inventive and new
+
+
+
+
+For the cut:
+The repetition of new doesn't add much rhythmically, and the idea of a new moon being anything but is not very clever rhetorically.
+
+
+
+https://poets.org/index%2Ephp/poem/cocoon
