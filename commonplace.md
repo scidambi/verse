@@ -94,10 +94,65 @@ Referring to the autumn haze "pouring" into the meadow with "blue" is clever ima
 
 
 
-
 For the cut:
 The repetition of new doesn't add much rhythmically, and the idea of a new moon being anything but is not very clever rhetorically.
 
 
 
 https://poets.org/index%2Ephp/poem/cocoon
+
+
+# 2026-09-06 · Babette Deutsch, "The Valley of Aijalon"
+steal: I have forgotten precious things:
+Wisdom in books, the words of lovers,
+
+
+
+cut: but not the pewter
+Of olives from a mountain’s edge
+
+
+why:
+
+For the steal:
+A strong way to start the poem, simply and clearly introducing the idea of forgetting things that are important. And then the way that the syllables move in "wisdom and books, the words of lovers." There's a kind of rhythmic quality to it. There's the W-W repetition. It's not quite perfectly syllabically balanced between the two clauses, but it's there. And maybe the extra syllable in "the words of lovers" actually creates momentum
+
+
+
+For the cut:
+Pewter of olives is kind of confusing, and not in a mysterious way. I'm not sure why that specific image relates to the point before it, which is about pledges given and taken, and fear and hunger. 
+
+I'm not sure what it's alluding to, and it's all quite puzzling, not in an alluring way, but in a confusing way.
+
+https://poets.org/poem/valley-aijalon
+
+# 2026-09-07 · António Osório, "Consolation of Poetry"
+
+steal: 
+The Greeks
+and Romans had,
+along the roads,
+verses inscribed
+on tombstones
+to accompany them
+
+
+cut: 
+words that so often
+showed them proud
+of what they had been
+
+
+why:
+
+For the steal:
+I like the way that "Greeks and Romans" opens up this image, because it's very evocative. I like the specificity down to the roads and the kind of less lofty. That's a nice movement from high to low.
+
+I love the simplicity of verses inscribed on tombstones to accompany them. The juxtaposition of poetry and then the death of the tombstone. But also to accompany them, almost like there's something touching about the verses. They're not just kind of cold and abstract poetry
+
+
+
+For the cut:
+"Showed them proud of what they had been" almost seems like too many words are being used to make a point that isn't that interesting, namely, that poetry is something cultures care about and that they made feel proud about. But "what they had been" is confusing in terms of tense, and I'm not really sure what this clause is trying to say about the verses on the tombstones. It almost just seems like filler
+
+https://poets.org/poem/consolation-poetry
