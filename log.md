@@ -1,2 +1,3 @@
 Did the second lecture on conditionals. I'm a little confused as to when to choose different approaches, like when to use Match vs. just ELIF. I also feel I need to look back at the cheat sheet and practice the functions. But overall I definitely have a feel for the way the language works
 I started psets. Confidence is building now that I'm writing little programs. But I am getting confusing by number algorithms vs. printing text.
+Did more psets today, getting a handle, using hints judiciously. Need to think of edge cases more

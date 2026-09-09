@@ -156,3 +156,30 @@ For the cut:
 "Showed them proud of what they had been" almost seems like too many words are being used to make a point that isn't that interesting, namely, that poetry is something cultures care about and that they made feel proud about. But "what they had been" is confusing in terms of tense, and I'm not really sure what this clause is trying to say about the verses on the tombstones. It almost just seems like filler
 
 https://poets.org/poem/consolation-poetry
+
+
+# 2026-09-08 · Luis Muñoz, "Folded"
+
+steal:
+there was
+a slip of paper folded many times
+in the urn of my head
+
+cut:
+and the trick was to know 
+how to unfold it carefully
+avoiding any hullabaloo
+that might tear it
+
+why:
+
+for the cut:
+A slip of paper folded many times is a wonderful metaphor for a thought that's hidden, and in the urn of my head is just strange enough, thinking of your head as an urn, that it surprises you. But it's also a very simple, short, one-syllable word, "urn," that, as an image, is evocative because an urn is where you keep things inside it often. And so it can be considered, in a very elegant way, as a good metaphor for a head. 
+
+for the steal:
+Avoiding any hullabaloo is the part that throws me off. Hullabaloo is a strange word. It's kind of distracting in the sentence, especially because the whole poem is so internalized. It's about one person's brain, but hullabaloo sounds like something that's happening between people.
+
+That would be fine as a metaphor for something going on in your head, the different warring factions in your head. But I don't even know if that's what the poem is trying to say, because it's talking about "that might tear it," and it's almost like it's fragile rather than it's causing chaos. Something is not resonating with that word in this sentence
+
+
+https://poets.org/poem/folded
