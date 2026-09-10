@@ -183,3 +183,28 @@ That would be fine as a metaphor for something going on in your head, the differ
 
 
 https://poets.org/poem/folded
+
+
+# 2026-09-09 · Eugenio Montale, "Noon"
+
+
+Steal:
+to hear from in the thick of briars
+blackbirds’ blatter, the slither of adders.
+
+Cut:
+To observe through boughs the sea’s
+distant shimmering of scales
+
+Why:
+
+For the steal:
+I love the way that the use of clashing consonants and alliteration gives us a sense for the sort of gnarled, thick, overlapping, knotted experience of what the poet is seeing, hearing, and feeling. I liked the use of kind of internal rhyme within the sentence with "bladder" and "adders." I like the way that the "slither" kind of sneaks up on you, almost like a snake sneaking up on you. And overall, this sentence just has a degree of sumptuousness, but also danger, which is a great combination
+
+For the cut:
+Shimmering when it comes to the sea feels a little clichéd. Also, the way that the poem enlarges the scope here, we go from staring at the wall and very closely to far away through the bows of the tree, it happened very suddenly. It was a big step, and I think if you're going to take a step like that, you really need to nail the language. Distant shimmering of scales almost feels like mixed metaphors, scales and the shimmering. As well as language that I've seen and heard before, it's a little clichéd
+
+
+
+
+https://poets.org/poem/noon-1
