@@ -208,3 +208,74 @@ Shimmering when it comes to the sea feels a little clichéd. Also, the way that 
 
 
 https://poets.org/poem/noon-1
+
+
+# 2026-09-10 · Nikola Madzirov, "Silence Comes from Somewhere Else"
+
+Steal:
+
+I would ask them to lock the silence—
+secret of the open eyes.
+
+Cut:
+about the distance between the blood
+of two enemies after the war
+
+Why:
+
+For the steal:
+There's something mysterious but resonant happening here. The idea that you can lock silence -- trap a secret -- makes sense, because while usually silence is the absence of sound, if there is a secret present the silence is also something that envelopes (or traps) the secret. 
+
+Secret of the open eyes communicates a kind of open secret. But it is also a sharp, striking image.
+
+For the cut:
+There is something staid and cliched and worn down about blood of two enemies after the war. It's a tired line. It takes you away from the poem.
+
+
+# 2026-09-11 · Daniela Danz, "A Brief History of Condensation Trails"
+
+
+Steal:
+it is also true that I did nothing but read
+the newspaper give birth to you and to your sisters
+and watch airplanes in the sky as if it were just the same
+old game again
+
+Cut:
+but even then I had already founded a shipping firm
+to ship off everything that I ought to have done to
+some other place 
+
+Why:
+
+For the steal:
+The paradox of nothing but actually being a lot (giving birth, airplanes in the sky being a metaphor for history unfurling).
+Plus a beautiful image, birth and death
+
+For the cut:
+Repetitive and vague
+
+
+https://poets.org/poem/brief-history-condensation-trails
+
+
+# 2026-09-12 · Emily Dickinson, "[This is my letter to the world]"
+
+Steal:
+The simple News that Nature told— 
+With tender Majesty 
+
+Cut:
+For love of Her—Sweet—countrymen— 
+
+Why:
+
+For the steal:
+
+The simplicity and of the words and how it works with the iambic tetrameter. Plus the way mono and bisyllabic words culminate in a rolling three syllable word (majesty)
+
+
+For the cut:
+
+The interruption with sweet is confusing and not worth the jarring-ness
+

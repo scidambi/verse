@@ -2,3 +2,6 @@ Did the second lecture on conditionals. I'm a little confused as to when to choo
 I started psets. Confidence is building now that I'm writing little programs. But I am getting confusing by number algorithms vs. printing text.
 Did more psets today, getting a handle, using hints judiciously. Need to think of edge cases more. the len() mixup got me -- when it counts characters in a string vs. elements 
 Made good progress on psets today. Learned some neat tricks, like pass for if statements when you want to print nothing, and bigger stuff like how to use functions and variables in concert, and how to convert inputs from the user into different parts which you can use in functions.
+Important to understand that when it's processing a string it goes one character at a time. So for x in variable will analyze it one character in the string at a time
+if you're using result in a iterable thing remember it's evolving not static
+Learnings from the plate one which was hard: (1) you can do IF NOT (2) if you want to string multiple IFs where all conditions need to be met can do (1) and can also link functions by making the last IF not in the first function a newly defined function that you then define separately. (Provided you go in the right order) (3) Often when you don't know how to do something, try english! e.g. if X in Y
