@@ -279,3 +279,88 @@ For the cut:
 
 The interruption with sweet is confusing and not worth the jarring-ness
 
+
+# 2026-09-13 · Christina Rossetti, "Love Lies Bleeding"
+
+Steal: Caught afterglow thrown back from long set days, 
+Caught echoes of all music passed away. 
+
+Cut: No recognition in his look, no trace 
+Of memory in his eyes dust-dimmed and grey. 
+
+Why:
+
+For the steal:
+The double use of "caught" is effective to show this spark, which is contrasted against the broader emotion of things having passed
+
+For the cut:
+Makes the point too strongly, lacks nuance
+
+
+# 2026-09-14 · Stéphane Bouquet, "From “Meditations of the Old Young Man” [2. What it was to live ...]"
+
+Steal:
+and thus the instant paradiso is multiplied according to
+
+its own exuberant illogic.
+
+Cut:
+You who the lake 
+amazes, now listen to the bells so turbulently excited
+
+to ring out 7am that they stop just 16 strokes 
+later:
+
+Why?
+
+For the steal:
+I love that the poem builds in momentum and then has this grand finale with this line. And while using "paradiso" like that is a little bit pretentious or arch, it still works well, and there's a kind of joy to the way that the language unfurls, multiplied, including to its own exuberant illogic. There's a kind of rhythm and unfurling there that is quite effective, where the language is mirroring the thought
+
+For the cut:
+Math here is confusing, and kind of takes you out of the poem
+
+https://poets.org/poem/meditations-old-young-man-2-what-it-was-live
+
+
+
+# 2026-09-15 · Jenny Tunedal, "Older Elektra"
+
+
+Steal: 
+My brain is dragged like stones
+Dragged by ox children up a mountain
+Stones buried in cliffs of snow
+
+Cut:
+All kinds of people take deep breaths
+
+Why?
+
+For the steal:
+Incredible description of a low grade depression. The slow plod of the brain. The children transform from a happy thing to a symbol of weakness (children can't drag things easily). Stones buried in cliffs of snow portrays both a peaceful quiet and a massive inertia. 
+
+For the cut:
+Totally banal and so simple and trite I almost wonder if it's deliberate. But then, if so, why and to what end?
+
+
+# 2026-09-16 · Daniel Lipara, "[Someone running with his head aflame …]"
+
+Steal:
+The wind stirs him everywhere exhaustion’s gone.
+
+
+Cut:
+The heart brims with vitality.
+
+
+Why?
+
+For the steal:
+Beautiful play of addition by subtraction. Defining activity as the absence of exhaustion. Giving the normally inert exhaustion a sense of movement (having gone here and there.)
+
+
+For the cut:
+A stock phrase. "Brims" is trite, "vitality" is too stuffy. The whole thing is cliched.
+
+
+
