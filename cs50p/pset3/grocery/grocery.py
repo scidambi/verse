@@ -1,3 +1,4 @@
+print("Sentinel")
 def main():
     count = 0
     while True:
