@@ -363,4 +363,24 @@ For the cut:
 A stock phrase. "Brims" is trite, "vitality" is too stuffy. The whole thing is cliched.
 
 
+# 2026-09-17 · Anna Gual, "The New Normal"
+
+Steal:
+Our calendars will seem strange
+and we won’t know what the rules are,
+in the new normal.
+
+Cut:
+There’ll be lichens
+and hunger well-whetted
+
+Why:
+
+For the steal:
+The idea of calendars seeming strange is an instant way to show how different life is, especially to working professionals. And we want to know what the rules are. Also, this plays on the idea because people are so bound to this calendar, it's a very clean and smooth way to portray a world where everything is different
+
+For the cut:
+The language of this sentence using "lichens well-wetted" is a little bit more formal and more detailed and precise than the rest of the language in the poem, and so it somehow jars. Also, I'm not sure what "lichens" represents here. "Wetted" is a little, again, formal. This one just jarred me a little bit
+
+
 
