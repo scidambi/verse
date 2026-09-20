@@ -384,3 +384,49 @@ The language of this sentence using "lichens well-wetted" is a little bit more f
 
 
 
+# 2026-09-18 · Amanda Hernández, "Noise"
+
+Steal:
+Build a nest atop some lull
+
+Cut:
+Might we then remove ourselves from the bustle.
+
+
+Why: 
+
+For the steal:
+Beautiful simple language with four letter words. The idea of a nest on something as evanescent as a lull. Great iambic rhythm.
+
+For the cut:
+Too arch ("might we") and too stock ("the bustle").
+
+
+https://poets.org/poem/noise
+
+# 2026-09-19 · X, "X"
+
+Steal:
+Therefore farewell; go trouble younger hearts
+And in me claim no more authority.
+
+
+Cut: 
+In blind error when I did persever,
+Thy sharp repulse, that pricketh aye so sore,
+
+Why:
+
+For the steal:
+It's very elegant to say, "Go bother younger men," because, on the one hand, they are more callow (instead of naive), but, on the other hand, it's also wistful because they have a more pure love.
+
+I like, "In me claim no more authority," because it almost uses sort of legal and property rights language to make the claim about the effect love has on you, and that's somewhat surprising
+
+
+For the cut:
+I think the point about painfulness and errors a little bit too strongly uses the eye metaphor. It's almost kind of violent overall
+
+
+
+
+https://poets.org/poem/farewell-love-and-all-thy-laws-forever
