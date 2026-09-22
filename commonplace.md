@@ -404,7 +404,7 @@ Too arch ("might we") and too stock ("the bustle").
 
 https://poets.org/poem/noise
 
-# 2026-09-19 · X, "X"
+# 2026-09-19 · Thomas Wyatt, "[Farewell love and all thy laws forever]"
 
 Steal:
 Therefore farewell; go trouble younger hearts
@@ -430,3 +430,48 @@ I think the point about painfulness and errors a little bit too strongly uses th
 
 
 https://poets.org/poem/farewell-love-and-all-thy-laws-forever
+
+# 2026-09-20 · Robinson Jeffers, "People and a Heron"
+
+Steal:
+At twilight they went off together, the verge was left vacant, an evening heron
+
+Cut:
+ but also I suppose
+Well reconciled with the world but not with our own natures we grudge to see them
+Reflected on the world for a mirror.
+
+Why:
+
+For the steal:
+Beautiful image! All this nature's detritus, the bric-a-brac left after the tide ebbed, now has been washed away, and there's this beautiful heron left. There's something poetic and magical about the image
+
+
+For the cut:
+Confused by what the sentence actually means. The use of "well-reconciled with the world" I sort of get, but not "grudge to see them." What's "them"? Why did we become plural?
+
+Yeah, what's reflected? I don't know. It's just confusing
+
+
+https://poets.org/poem/people-and-heron
+
+
+# 2026-09-21 · Jalal al-Din Rumi, "Go ahead, Lord, break our harp"
+
+Steal:
+And if every instrument in the world burns to ash? 
+No matter.  
+
+Cut:
+Say every candle, every flickering lamp dies out.  
+No reason to despair. 
+
+The why:
+
+For the steal:
+Powerful image -- with the harp's association with bards and poetry -- of all the extinction of all instruments. But then the surprising: no matter. Sets up the contradictory edict at the heart of the poem. That the poetic spirit is indomitable, even if all its vessels are closed or shut or gone.
+
+For the cut:
+A weak image -- the candle flickering is itself weak, so all of them dying out isn't striking or powerful.
+
+http://poets.org/poem/go-ahead-lord-break-our-harp
