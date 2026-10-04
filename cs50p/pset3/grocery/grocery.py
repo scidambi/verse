@@ -1,6 +1,6 @@
 def main():
     count = 0
-    items = {item, count}
+    items = {}
     while True:
         try:
             item = input("Item: ").upper()

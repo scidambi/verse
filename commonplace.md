@@ -475,3 +475,263 @@ For the cut:
 A weak image -- the candle flickering is itself weak, so all of them dying out isn't striking or powerful.
 
 http://poets.org/poem/go-ahead-lord-break-our-harp
+
+
+# 2026-09-22 · Mirabai, "Mira at the Market"
+
+Steal:
+Listen, friend: I went and bought god for myself.
+
+Cut:
+Mira’s lord: show yourself. I claim you in every rebirth.
+
+
+The why:
+
+For the steal:
+Startling, simple, colloquial and yet grandiloquent. 
+
+
+For the cut:
+Switches to a more formal tone, jarring. And confusing.
+
+
+
+
+https://poets.org/poem/mira-market
+
+
+# 2026-09-23 · Carmen Gallo, "Snorkel"
+
+
+Steal:
+and the world
+becomes an egg—half earth, half air—
+and you the border that divides them.
+
+Cut: You continue to float, not thinking.
+
+The why:
+
+For the steal:
+The way that the poem splits the world in two and the line, the border that divides them, also is at the exact halfway point of the poem, with eight lines above it and eight lines below it. This is very formally clever and effective. Also, the simple image of an egg, half earth, half air, is very visually distinctive and immediately easy to comprehend
+
+For the cut:
+Not thinking here kind of took me out of it. Firstly, I don't believe it, that you're actually not thinking. Secondly, it almost felt extraneous because I think the peacefulness of the line is already kind of communicating a kind of quieted mental state
+
+https://poets.org/poem/snorkel
+
+# 2026-09-24 · Christine de Pisan, "The Boat"
+
+Steal:
+Imagine a boat sailing solo, just
+the boat, no owner, no-one to steer.
+This is hard. This is her.
+
+Cut:
+all it takes
+is one storm, one risky encounter
+to change everything
+
+The why:
+
+For the steal:
+I love the way the sentence, "This is hard, this is her," works, because it does this very subtle mutation from talking about a literal thing to making that thing a metaphor, but it does it using such simple words. It's surprising, but it's elegant
+
+For the cut:
+The double repetition of "one," "one star," and "one risky encounter" almost feels too much. It's like trying too hard to make the point. And "risky encounter", the language of it, I don't know, the tone doesn't fit, and it's almost inappropriate to the context of the C to think about a risky encounter. I don't know
+
+https://poets.org/poem/boat-1
+
+
+# 2026-09-25 · Margaret Noodin, "Fire Strike"
+
+Steal:
+a light wrapped in fog
+
+
+Cut:
+is a voice barely heard
+
+
+The why:
+
+For the steal:
+Compelling image. Two ethereal weightless elements in conjunction. But also intuitive: that the light, which is positive and nourishing, is obscured by the fog. A good description of melancholy, the poem’s subject
+
+
+For the cut:
+Too many words to communicate something faint. The line’s length draws attention to itself in the wrong way. The use of the adverb doesn’t seem the right choice vs a simple adjective to describe the voice 
+
+
+
+
+https://poets.org/poem/fire-strike
+
+
+# 2026-09-26 · Edith Wharton, "Segesta"
+
+Steal:
+This temple is a house not made with hands
+But born of man’s incorrigible need
+For permanence and beauty in the scud
+And wreckage of mortality
+
+Cut:
+High in the secret places of the hills
+Cliff-girt it stands, in grassy solitude,
+
+The why:
+
+For the steal:
+Love the use of the word scud, which introduces the idea of ephemeral in a natural metaphor, and using a word with a nice harsh sound like scud, which also has an onomatopoeic element with its promixity to "skid". The general idea of what the temple repsents is also explained in a clear and elegant way
+
+
+For the cut:
+"Secret places of the hills" is a little cheesy. The use of girt in this way is confusing. "Grassy solitude" seems over-wrought 
+
+# 2026-09-27 · Thomas Hardy, "Going and Staying"
+
+Steal:
+The moan of multitudes in woe,
+
+Cut:
+And saw his ghostly arms revolving
+To sweep off woeful things with prime,
+
+The why:
+
+For the steal:
+The rhythm, the alliteration, the chiasmus of short-long-short words
+
+For the cut:
+Seems like a caricature. Unsure what with prime means
+
+https://poets.org/poem/going-and-staying
+
+# 2026-09-28 · Matsuo Bashō, "Three Haiku"
+
+Steal:
+this and that - drifts to mind - must be the sakura
+
+Cut:
+[In the next room an anchor reports on increased bombing]
+
+The why:
+
+For the steal:
+the structure of the line is enacting the drift of leaves, which is being called by sakura as a concept (chery blossoms)
+
+For the cut:
+Generic line about bombs on the news. Not specific. seems contrived. Doesn't evoke anything
+
+https://poets.org/poem/three-haiku
+
+# 2026-09-29 · Amergin Glúingel, "The Battle Hymn of Amergin"
+
+Steal:
+I am the god who starts a fire in the head
+
+
+Cut:
+I am a lake bringing things to a new level
+
+
+The why:
+
+For the steal:
+Clear, blunt language that is epic in scope. Unpretentious but grand
+
+For the cut:
+The vernacular doesn't quite make sense. And the literal meaning is confusing.
+
+
+https://poets.org/index%2Ephp/poem/battle-hymn-amergin
+
+
+# 2026-09-30 · Yiannis Doukas, "Ekphrasis: Her Expression"
+
+Steal:
+Its coolness, in midair, above the clouds
+At Heathrow, when the skies begin to clear.
+
+
+Cut:
+And yet I recognized her right away,
+Seeing her here, Iris, the Rainbow, and
+In that moment, we changed native land.
+
+The why:
+
+For the steal:
+The iambic rhythm mimics the rising and falling of flight in a gentle way. Each clause is like a cloud. The shift from abstract to specific is elegant and doesn't break the melody or mood
+
+For the cut:
+The invocation of Iris feels forced. The clauses are segmented choppily. The idea of changing native land is confusing and not coherent.
+
+https://poets.org/poem/ekphrasis-her-expression-0
+
+
+# 2026-10-01 · Stuart Dybek, "Nine Bluegills"
+
+Steal:
+Gutted, scaled, rinsed with the water they swam in,
+lie on my uncle’s dock from which they were caught.
+
+Cut:
+
+Tonight, fish in frothing butter will brown in cast iron pans,
+but now is the hour of panfish striking a mayfly hatch
+as plash by echoing plash
+
+The why:
+
+For the steal:
+The shift from past to present tense, and the way the verbs show the evolution of the fish's journey, is a surprising but legible way to bring us to the the poem and the scene.
+
+For the cut:
+Too much going on. Too much alliteration and onomatopeia and a confusing mix of timeframes and states (fish as food, fish living in water.)
+
+
+# 2026-10-02 · Vievee Francis, "I Have to Write the Book You'll Burn"
+
+Steal:
+Oh how annoyed my friends are
+when strangers call me quiet. 
+
+Cut:
+I need this
+to grow. To plant a seed in your mind.
+
+The why:
+
+For the steal:
+A deceptively profound line. It tells you how much is going on inside her, but indirectly, and persuasively: her friends defending her builds credibility. But the line has a complex way it unfurls, it moves unexpectedly, because you don't expect that's what her friends are going to bea annoyed about when you read the first half of the sentence.
+
+For the cut:
+Utterly cliched -- the idea of growth and seeds, the idea of planting seeds in someone's mind. The delicate nuance of the poem is betrayed by this line.
+
+
+https://poets.org/poem/i-have-write-book-youll-burn
+
+
+# 2026-10-03 · Henry David Thoreau, "Smoke"
+
+Steal:
+Lark without song, and messenger of dawn,
+Circling above the hamlets as thy nest;
+
+Cut:
+Or else, departing dream, and shadowy form
+Of midnight vision, gathering up thy skirts;
+
+The why:
+
+For the steal:
+The rhythm, the 40:60 split in syllables building momentum, the metre emphasizing song and dawn which near-rhymes
+
+For the cut:
+Hard to follow, trying a lot, and ending with a metaphor that seems discordant, the prosaicness of lifting up a skirt
+
+
+https://poets.org/poem/smoke-0
