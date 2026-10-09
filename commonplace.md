@@ -735,3 +735,119 @@ Hard to follow, trying a lot, and ending with a metaphor that seems discordant, 
 
 
 https://poets.org/poem/smoke-0
+
+
+
+
+# 2026-10-04 · Susan Stewart, "A Single Tree"
+
+Steal:
+
+It seemed as if the starlings worshipped something
+there, but it was too far to tell and depth
+perception fails as the light fails
+
+
+Cut:
+
+It was a mark, a landmark,
+in a sheaf of maps lost when the learned
+surveyors left
+
+
+The why:
+
+For the steal:
+Mysterious, but clear as an image. Has motion. Destabilizes the poem effectively
+
+For the cut:
+Too simple a pun (mark, landmark), the easy a metaphor (sheaf of maps)
+
+https://poets.org/poem/single-tree
+
+
+# 2026-10-05 · Hai-Dang Phan, "Kingfisher"
+
+Steal:
+
+How you wore the sky on your back and the earth
+on your breast
+
+
+Cut:
+Those spring mornings, I sensed new depths in the meaning of the word alive.
+
+
+The why:
+
+For the steal:
+Powerful metaphor for someone being outside. And breast introduces an erotic element that prefigures his declaration of affection. The use of all monosyllabic words is punchy and rhythmic. 
+
+For the cut:
+Cliched. "new depths". And the concept of "finally understood the meaning of word x"
+
+# 2026-10-06 · Kerry Sherin Wright, "Poem haunted by the sound of a long e"
+
+For the steal:
+
+After the procedure, the report: female, no genetic abnormality
+
+For the cut:
+
+I was wooed by my favorite writer in 1990.
+
+The why:
+
+For the steal:
+
+The line uses spare language in a powerful way. It uses punctuation to propel the line forward in a stop-start-stop-start.
+The use of the word "abnormality" to end is effective because it rhymes nicely with pity a few lines up, in a way that's expected, because it's
+a long word compared to the smallness of "pity", and it also has a metrical weak-strong drum beat.
+
+For the cut:
+Sounds like a bad memoir.
+
+# 2026-10-07 · Christian Campbell, "From “Birthday Letters” (I)"
+
+Steal:
+you were leonine and slightly terrifying,
+little mutiny of mouth.
+
+Cut:
+a glass of water and yes,
+without realizing it, we laughed
+
+The why:
+
+For the steal:
+
+I like the subtle alliteration of "mutiny of mouth." It's also an interesting way to put those two words together that you don't typically see. 
+It's evocative, but I also like how that's the culmination of the broader description about the person while they're laughing.
+
+For the cut:
+weak way to end the poem, abrupt
+
+
+https://poets.org/poem/birthday-letters-i
+
+
+# 2026-10-08 · francine j. harris, "Wish We Were Daddies"
+
+Steal: 
+We spit in squat
+tubs. We sit on a slab.
+
+Cut:
+Either way we bump whatever from the radio. Whatever
+station we land on.
+
+The why:
+
+For the steal:
+Staccato, rhythm, alliterative without being showy. The beats of the line match the masculine nature of the scene.
+
+For the cut:
+Generic, prosaic and unmemorable.
+
+
+https://poets.org/poem/wish-we-were-daddies
