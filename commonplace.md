@@ -851,3 +851,46 @@ Generic, prosaic and unmemorable.
 
 
 https://poets.org/poem/wish-we-were-daddies
+
+
+# 2026-10-10 · Claude McKay, "Jasmines"
+
+Steal: 
+The cold nude trees are tossing to and fro
+
+Cut:
+Your face was in the mirror. I could see
+You smile and vanish suddenly away
+
+The why:
+
+For the steal:
+An unpretentious but vivid and original image, which bridges the cold and environ (nature) effectively through the idea of nudity, which is also useful broadly in the poem (the feminine subject)
+
+For the cut:
+Very obvious and basic and well-worn images and language (face in mirror, vanishing smile)
+
+https://poets.org/poem/jasmines
+
+
+# 2026-10-11 · Charles Dickens, "The Ivy Green"
+
+Steal: 
+The wall must be crumbled, the stone decayed,
+To pleasure his dainty whim:
+And the mouldering dust that years have made
+Is a merry meal for him
+
+Cut:
+Fast he stealeth on, though he wears no wings,
+And a staunch old heart has he
+
+The why:
+
+For the steal:
+Great mix of the stately and the whimsical. Nice rhyme and rhythm with the first line ten syllables, the second seven, repeated.
+
+For the cut:
+Hard to say, tough chewing, and a tired image (wears no wings)
+
+https://poets.org/poem/ivy-green
