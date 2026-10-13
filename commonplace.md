@@ -894,3 +894,25 @@ For the cut:
 Hard to say, tough chewing, and a tired image (wears no wings)
 
 https://poets.org/poem/ivy-green
+
+
+# 2026-10-12 · Charles Dickens, "The Ivy Green"
+
+Steal: 
+touched my tongue to the rough
+of his tongue, slicked the dark
+underside of him
+
+Cut:
+Red witch roaming the scorched house
+of fires I have been, fires I have built,
+
+The why:
+
+For the steal:
+Very original, haven't ever imagined what a lion's tongue feels like, let alone imagined its underside. Takes a well-worn image (a lion's mouth) and makes it new
+
+For the cut:
+Forced (red, fires, witches), feels melodramatic or too fantastic in a way that breaks the spell.
+
+https://poets.org/poem/ivy-green
