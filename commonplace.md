@@ -916,3 +916,49 @@ For the cut:
 Forced (red, fires, witches), feels melodramatic or too fantastic in a way that breaks the spell.
 
 https://poets.org/poem/ivy-green
+
+# 2026-10-13 · Safiya Sinclair, "Bluebeard"
+
+Steal: 
+touched my tongue to the rough
+of his tongue, slicked the dark
+underside of him
+
+Cut:
+Red witch roaming the scorched house
+of fires I have been, fires I have built,
+
+The why:
+
+For the steal:
+Very original, haven't ever imagined what a lion's tongue feels like, let alone imagined its underside. Takes a well-worn image (a lion's mouth) and makes it new
+
+For the cut:
+Forced (red, fires, witches), feels melodramatic or too fantastic in a way that breaks the spell.
+
+https://poets.org/poem/bluebeard
+
+
+# 2026-10-14 · Ama Codjoe, "Their Pasts"
+
+Steal: 
+a bouquet of tiger lilies, all but one closed tightly
+
+Cut:
+wants
+to slaughter the other team; is addicted to being
+on top
+
+The why:
+
+For the steal:
+Great mix of violence and love. Violence: tiger, the "all but one closed tightly" resembling a fist. Love, the lilies. The placement of "tightly" at the end of the clause also has a dramatic flair. 
+
+For the cut:
+Felt generic and kind of irrelevant. Both over-zealousness in sports fandom, and sexual positions.
+
+
+
+
+https://poets.org/poem/their-pasts
+
