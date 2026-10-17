@@ -896,28 +896,7 @@ Hard to say, tough chewing, and a tired image (wears no wings)
 https://poets.org/poem/ivy-green
 
 
-# 2026-10-12 · Charles Dickens, "The Ivy Green"
-
-Steal: 
-touched my tongue to the rough
-of his tongue, slicked the dark
-underside of him
-
-Cut:
-Red witch roaming the scorched house
-of fires I have been, fires I have built,
-
-The why:
-
-For the steal:
-Very original, haven't ever imagined what a lion's tongue feels like, let alone imagined its underside. Takes a well-worn image (a lion's mouth) and makes it new
-
-For the cut:
-Forced (red, fires, witches), feels melodramatic or too fantastic in a way that breaks the spell.
-
-https://poets.org/poem/ivy-green
-
-# 2026-10-13 · Safiya Sinclair, "Bluebeard"
+# 2026-10-12 · Safiya Sinclair, "Bluebeard"
 
 Steal: 
 touched my tongue to the rough
@@ -939,7 +918,7 @@ Forced (red, fires, witches), feels melodramatic or too fantastic in a way that 
 https://poets.org/poem/bluebeard
 
 
-# 2026-10-14 · Ama Codjoe, "Their Pasts"
+# 2026-10-13 · Ama Codjoe, "Their Pasts"
 
 Steal: 
 a bouquet of tiger lilies, all but one closed tightly
@@ -958,7 +937,99 @@ For the cut:
 Felt generic and kind of irrelevant. Both over-zealousness in sports fandom, and sexual positions.
 
 
-
-
 https://poets.org/poem/their-pasts
 
+
+# 2026-10-14 · E. Hughes, "To Let This Woman Love Me"
+
+Steal: 
+I want to let
+my lover touch me there
+
+in the shambles of language
+and loss.
+
+Cut:
+She holds me without
+admitting what she senses I cannot
+speak: this caesura of wound,
+this repetition of all my losing
+
+The why:
+
+For the steal:
+The directional movement is effective. Introduces a downward motion (towards the groin) but then surprises you by entering a figurative mode (language and loss). "Shambles" is also effective here, like tangled legs in love.
+
+For the cut:
+Too many negatives without admitting what she senses. I cannot speak. It's hard to keep track of what's happening here.
+
+The use of "feels" a little pretentious, like a forced move to Latin, and also is a kind of metaphor that is confusing, wound. I'm not sure what a pause of "wound" means.
+
+https://poets.org/poem/let-woman-love-me
+
+
+# 2026-10-15 · Garrett Hongo, "God Only Knows"
+
+Steal: 
+I make out the white ribbon of a kite’s tail
+trailing behind the wake of a Zodiac boat
+
+Cut:
+Cap Canaille
+greyed out by a scrim of equinoctial haze
+
+The why:
+
+For the steal:
+The combination of white ribbon, a kite's tail and the word Zodiac (referring to a boat but also to celestial signs) is effective. It creates lots of symbols and signs elegantly, setting up the central image of the poem. But it is also modest and simple -- pure.
+
+For the cut:
+Too esoteric (equinoctial) and foreign (Cap Canaille). Alienates and spoils the simplicity of the line previous (Hot and almost breezeless today)
+
+https://poets.org/poem/god-only-knows
+
+
+# 2026-10-16 · Victoria Kornick, "Guided Meditation"
+
+Steal: 
+At a dinner party, someone tells me the secret to writing
+is to put the most important words at the beginning
+of each sentence.
+
+Cut:
+I would, at last, ask him.  This will never end, will it? Will it ever end?
+
+The why:
+
+For the steal:
+A compelling hook and device for the poem, expressed clearly and visually (the last three words of the advice are the first three words of a sentence)
+
+For the cut:
+Muddled, melodramatic
+
+https://poets.org/poem/guided-meditation
+
+
+# 2026-10-17 · Katherine Mansfield, "Loneliness"
+
+Steal: 
+X
+
+Cut:
+X
+
+The why:
+
+For the steal:
+X
+
+For the cut:
+X
+
+https://poets.org/poem/god-only-knows
+
+
+
+
+
+https://poets.org/poem/loneliness-3
