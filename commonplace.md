@@ -1013,23 +1013,20 @@ https://poets.org/poem/guided-meditation
 # 2026-10-17 · Katherine Mansfield, "Loneliness"
 
 Steal: 
-X
+Like a tired child I lie and wait her tread,
+
 
 Cut:
-X
+So, with the laurel she is garlanded.
+
 
 The why:
 
 For the steal:
-X
+Plodding, steady pentameter. Clever to make the adult into a child
 
 For the cut:
 X
-
-https://poets.org/poem/god-only-knows
-
-
-
 
 
 https://poets.org/poem/loneliness-3
