@@ -1023,10 +1023,31 @@ So, with the laurel she is garlanded.
 The why:
 
 For the steal:
-Plodding, steady pentameter. Clever to make the adult into a child
+Plodding, steady pentameter. Clever to make the adult into a child, given the poem's theme
 
 For the cut:
-X
+Trying to be too lofty, staid
 
 
 https://poets.org/poem/loneliness-3
+
+
+# 2026-10-18 · Alfred Noyes, "Lines for a Sun-Dial"
+
+Steal: 
+Good news of some strange light
+
+Cut:
+With shadowy pen I write
+
+
+The why:
+
+For the steal:
+Elegant mid-line assonance of "some" with sun in the proceeding line. Alliteration is gentle and insistent, as if it's penetrating through the clouds. "Good news" uses a stock phrase in a new way
+
+For the cut:
+The epithet "shadowy" feels imprecise and also trying too hard for presaging the sun metaphor
+
+
+https://poets.org/poem/lines-sun-dial
