@@ -8,7 +8,10 @@ def value_greeting(greeting):
 
     result = ""
 
-    if greeting == "hello":
+    
+    if greeting == "":
+        result = 100
+    elif greeting.split()[0] == "hello":
         result = 0
     elif greeting[0] == "h":
         result = 20
