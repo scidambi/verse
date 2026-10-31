@@ -6,12 +6,12 @@ p = inflect.engine()
 def main ():
             date_text = input("What is your birthday?")
             parsed_date = input_to_date(date_text)
-            delta_date = age_days(parsed_date)
-            age_in_minutes = age_minutes(delta_date)
-            age_words = age_minutes_to_words(age_in_minutes)
+            date_today = date.today()
+            delta_days = age_days(parsed_date, date_today)
+            age_in_minutes = age_minutes(delta_days)
+            age_words = age_minutes_to_words(age_in_minutes).capitalize()
             print(age_words)
             
-
 def input_to_date (date_text):
         try:
             parsed_date = date.strptime(date_text,"%Y-%m-%d")
@@ -19,17 +19,12 @@ def input_to_date (date_text):
         except ValueError:
             sys.exit("Invalid input")
 
-def age_days(parsed_date):
-
-    #calculate number of days from today to when they were born"
-    date_today = date.today()
+def age_days(parsed_date, date_today):
     delta_date = date_today - parsed_date
     return delta_date.days
      
-def age_minutes(delta_date):
-
-    #convert number of days to minutes
-    minutes = delta_date*(60*24)
+def age_minutes(delta_days):
+    minutes = delta_days*(60*24)
     return minutes
 
 def age_minutes_to_words(age_minutes):
